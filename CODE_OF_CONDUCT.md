@@ -25,7 +25,7 @@ Examples of unacceptable behavior:
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to security@tasave.com. All complaints will be reviewed and
+reported to salbahacalugo@gmail.com. All complaints will be reviewed and
 investigated promptly and fairly.
 
 ## Attribution

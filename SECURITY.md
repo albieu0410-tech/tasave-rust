@@ -5,7 +5,7 @@
 If you find a security issue in this SDK, please **do not open a public
 GitHub issue**.
 
-Email security@tasave.com with:
+Email salbahacalugo@gmail.com with:
 - A description of the vulnerability
 - Steps to reproduce
 - Potential impact
