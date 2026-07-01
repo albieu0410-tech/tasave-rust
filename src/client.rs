@@ -5,7 +5,7 @@ use reqwest::{header, Client};
 use crate::error::{Error, Result};
 use crate::models::{BcvRate, ConvertResult, HistoryEntry, ParallelRate, Rate, Status};
 
-const DEFAULT_BASE_URL: &str = "https://api.tasave.com";
+const DEFAULT_BASE_URL: &str = "https://tasave.sudelca.com";
 
 pub struct TasaVE {
     http: Client,

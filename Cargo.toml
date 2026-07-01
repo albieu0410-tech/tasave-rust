@@ -4,9 +4,13 @@ version = "0.1.0"
 edition = "2021"
 description = "Rust client for the TasaVE Venezuelan exchange rate API"
 license = "MIT"
+readme = "README.md"
 repository = "https://github.com/albieu0410-tech/tasaVE"
 keywords = ["venezuela", "exchange-rate", "bcv", "bolivar", "api"]
 categories = ["api-bindings"]
+
+[lib]
+name = "tasave"
 
 [dependencies]
 reqwest = { version = "0.12", features = ["json", "rustls-tls"], default-features = false }
